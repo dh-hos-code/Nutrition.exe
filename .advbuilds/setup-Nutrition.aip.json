@@ -1,0 +1,16 @@
+{
+  "MainExe": "Nutrition.exe",
+  "ProductDetail": {
+    "ProductName": "DHG.Hospital Nutrition"
+  },
+  "AdvancedInstallerShortcut": {
+    "Name": "DHG.Hospital Nutrition",
+    "Target": "APPDIR\\Nutrition.exe",
+    "InDirectories": ["DesktopFolder", "StartMenuFolder\\DHG Pharma"],
+    "PathIcon": "Logo.ico"
+  },
+  "IconInControlPanel": {
+    "IsSetIcon": true,
+    "PathIcon": "Logo.ico"
+  }
+}
